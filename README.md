@@ -60,11 +60,6 @@
 
 ## 📈 GitHub Analytics
 
-<!-- Typing Animation Heading -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=900&lines=📊+My+GitHub+Analytics+Dashboard;Click+Each+Graph+For+Details+%F0%9F%94%8D;Powered+by+GitHub+APIs+%26+Readme+Widgets" alt="Typing SVG" />
-</p>
-
 <!-- GitHub Stats -->
 <p align="center">
   <a href="https://github.com/iPrince-Tripathi">
