@@ -116,11 +116,14 @@
 ## 🤝 Let’s Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/iprince-tripathi/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Prince%20Tripathi-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <!-- LinkedIn Profile -->
+  <a href="https://www.linkedin.com/in/iprince-tripathi/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-Prince%20Tripathi-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
   </a>
-  <a href="mailto:prince19tri@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+  <!-- Email Button -->
+  <a href="mailto:prince19tri@gmail.com?subject=Hello%20Prince&body=I%20found%20your%20GitHub%20profile%20awesome!" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Email"/>
   </a>
 </p>
 
