@@ -60,28 +60,44 @@
 
 ## 📈 GitHub Analytics
 
+<!-- Typing Animation Heading -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=900&lines=📊+My+GitHub+Analytics+Dashboard;Click+Each+Graph+For+Details+%F0%9F%94%8D;Powered+by+GitHub+APIs+%26+Readme+Widgets" alt="Typing SVG" />
+</p>
+
+<!-- GitHub Stats -->
 <p align="center">
   <a href="https://github.com/iPrince-Tripathi">
-    <img src="https://github-readme-stats.vercel.app/api?username=iPrince-Tripathi&show_icons=true&theme=react&hide_border=true" width="48%" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=iPrince-Tripathi&show_icons=true&theme=react&hide_border=true&custom_title=My+GitHub+Stats" width="48%" alt="GitHub Stats"/>
   </a>
 
   <a href="https://github.com/iPrince-Tripathi">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=iPrince-Tripathi&theme=react&hide_border=true" width="48%" alt="GitHub Streak Stats"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=iPrince-Tripathi&theme=react&hide_border=true" width="48%" alt="Streak Stats"/>
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/iPrince-Tripathi">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iPrince-Tripathi&theme=vue" alt="GitHub Summary Card"/>
-  </a>
-</p>
-
+<!-- Language & Repo Stats -->
 <p align="center">
   <a href="https://github.com/iPrince-Tripathi?tab=repositories">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iPrince-Tripathi&theme=vue" alt="Top Languages"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iPrince-Tripathi&theme=vue" width="48%" alt="Languages"/>
   </a>
-  <a href="https://github.com/iPrince-Tripathi?tab=stars">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iPrince-Tripathi&theme=vue" alt="GitHub Stats Card"/>
+  
+  <a href="https://github.com/iPrince-Tripathi?tab=repositories">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iPrince-Tripathi&theme=vue" width="48%" alt="Repo Stats"/>
+  </a>
+</p>
+
+<!-- Profile Summary -->
+<p align="center">
+  <a href="https://github.com/iPrince-Tripathi">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iPrince-Tripathi&theme=vue" width="96%" alt="Profile Summary"/>
+  </a>
+</p>
+
+<!-- Follow Button -->
+<p align="center">
+  <a href="https://github.com/iPrince-Tripathi" target="_blank">
+    <img src="https://img.shields.io/github/followers/iPrince-Tripathi?label=Follow%20Me&style=social" alt="GitHub Follow Button"/>
   </a>
 </p>
 
@@ -93,11 +109,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=iPrince-Tripathi&theme=gruvbox&no-bg=true&margin-w=10" alt="GitHub Trophies"/>
   </a>
 </p>
-
----
-
-🏅 GitHub Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=iPrince-Tripathi&theme=gruvbox&no-bg=true&margin-w=10" /> </p>
 
 ---
 
