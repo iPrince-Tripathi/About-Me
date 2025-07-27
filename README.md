@@ -14,7 +14,7 @@
 ## 🙋‍♂️ About Me
 
 🎓 **Name:** Prince Tripathi *(officially Arpit Tripathi)*  
-📍 **Location:** Prayagraj, India  
+📍 **Location:** Prayagraj, India <img src="https://flagcdn.com/w40/in.png" width="22" title="India" />  
 📖 **Education:** B.Com – Prof. Rajendra Singh (Rajju Bhaiya) University (2nd Year)  
 🧠 **Field:** Aspiring Data Analyst | Storyteller with Data  
 📅 **Started Learning:** 13 July 2025  
