@@ -625,3 +625,218 @@ Let me know — we can build something uniquely branded for you using graphics o
 
 Would you like the next step — like a **GitHub Pages Portfolio Website** from this README
 
+
+
+<h1 align="center">
+  👋 Welcome, Curious Visitor!
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Prince+Tripathi+%F0%9F%91%8B;Welcome+to+my+Data+Driven+World!+%F0%9F%93%88;Glad+to+see+you+here!+Feel+at+home+%F0%9F%8F%A1;Every+data+has+a+story%2C+let's+discover+it.;Have+a+great+day+and+happy+exploring!+%F0%9F%98%8A" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="70">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iPrince-Tripathi&label=You+are+visitor+number&color=0e75b6&style=flat-square" alt="v
+
+
+<img src="https://komarev.com/ghpvc/?username=iPrince-Tripathi&label=Profile+Views&color=blue&style=flat-square"/>
+
+
+<h1 align="center">
+  👋 Welcome to Prince Tripathi's GitHub!
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Namaste+%F0%9F%99%8F+Friend!+I'm+Prince+Tripathi.;Data+Analytics+Enthusiast+%F0%9F%93%88+|+Commerce+Student.;Turning+Data+Into+Decisions+%F0%9F%92%AB;Explore+
+
+
+
+---
+
+### 🧠 Extras (Optional for Next Level):
+
+| Feature | Description |
+|--------|-------------|
+| **Animated GitHub Metrics Card** | Use [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) |
+| **Dynamic Time-Based Greeting** | Add a JavaScript GitHub page (possible in GitHub Pages, not README) |
+| **Tech Stack Icons Grid** | Use icons from `simpleicons.org` or [Shields.io](https://shields.io) |
+| **Calendar Graph** | Include GitHub contribution calendar (see [GitHub Streak Stats](https://github.com/denvercoder1/github-readme-streak-stats)) |
+
+Let me know if you'd like those too — I can generate them instantly!
+
+Would you also like a **custom visitor card** with country flags, map, or GitHub trophy badge section?
+
+
+<h1 align="center">
+  🌍 Welcome, Global Visitor! 🌐
+</h1>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/iPrince-Tripathi/count.svg" alt="Visitor Count" />
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=iPrince-Tripathi&label=PROFILE+VIEWS&color=blue&style=flat-square" alt="View Counter" />
+</p>
+
+---
+
+### 🌎 Where Are My Visitors From?
+
+<p align="center">
+  <img src="https://geolocation-db.com/badge.svg" alt="Visitor Location">
+</p>
+
+---
+
+### 🧠 GitHub Stats (Real-Time)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iPrince-Tripathi&show_icons=true&theme=react&hide_border=false&count_private=true" width="50%" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iPrince-Tripathi&theme=flat&no-frame=true&column=4&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+### 🔥 GitHub Streaks
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=iPrince-Tripathi&theme=highcontrast&hide_border=false" />
+</p>
+
+---
+
+### 🚀 Technologies I Use
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+---
+
+### 🙌 Thanks for Visiting!
+
+> ⚡ *This section updates dynamically. Come back again to see how we grow together!*  
+> ⭐ Don't forget to check out my [Superstore Sales Dashboard](https://github.com/iPrince-Tripathi/Superstore-Sales-Excel-Dashboard)
+
+---
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00bfff&center=true&vCenter=true&lines=Welcome+to+My+GitHub+Profile!;Data+Analytics+Enthusiast📊;Excel+%7C+Power+BI+%7C+SQL+%7C+Python🚀;Lifelong+Learner+💡" />
+</h1>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iPrince-Tripathi&label=PROFILE+VIEWS&color=brightgreen&style=flat-square" alt="Visitor count" />
+  <img src="https://profile-counter.glitch.me/iPrince-Tripathi/count.svg" />
+</p>
+
+---
+
+### 👋 Hello & Welcome!
+
+💼 I'm **Prince Tripathi** — a passionate, self-driven Data Analyst in the making. Currently pursuing my **B.Com at Rajju Bhaiya University**, I am on an exciting journey into the world of data analytics, visualization, and storytelling.
+
+🎯 I'm blending my commerce background with tools like **Excel, Power BI, SQL, and Python** to uncover actionable business insights.
+
+🔍 Always curious, always growing.
+
+---
+
+### 🧠 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+---
+
+### ✨ GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iPrince-Tripathi&show_icons=true&theme=radical&hide_border=false&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iPrince-Tripathi&layout=compact&theme=radical&hide_border=false" height="150" />
+</p>
+
+---
+
+### 🔥 GitHub Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=iPrince-Tripathi&theme=dark&hide_border=true" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iPrince-Tripathi&theme=monokai&no-frame=true&column=7" />
+</p>
+
+---
+
+### 🌍 Visitor Location Badge
+
+> This shows the country location of the last visitor.
+
+<p align="center">
+  <img src="https://api.geoapify.com/v1/ipinfo?apiKey=YOUR_API_KEY_HERE" alt="Visitor Location Badge (Geo API)" />
+</p>
+
+_(GeoAPI doesn't directly render in markdown. To enable this, use services like **Visitor Badges**, or external embedded widgets, which may require a GitHub Pages site or external HTML)_
+
+---
+
+### 📫 Let’s Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/iprince-tripathi/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:arpittripathiofficial@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
+
+### ⚡ Fun Fact
+
+> I started my Data Analytics journey on **13 July 2025** and built my **first Excel Dashboard** entirely on my own!  
+> I'm excited for what’s next. Let’s grow together 🚀
+
+---
+
+### 🛠️ Ongoing Projects
+
+- [Superstore Sales Dashboard](https://github.com/iPrince-Tripathi/Superstore-Sales-Excel-Dashboard) 🧾  
+- Power BI Visuals with Storytelling 📊  
+- SQL Mini-Projects and Challenges 📚  
+
+---
+
+### 🎉 Thank You for Visiting!
+
+```markdown
+💬 _If you’ve reached here — you're awesome. Drop a star ⭐, a follow, or just say hi. I’d love to learn from you too!_
+
+<img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Profile!;Future+Data+Analyst+In+Making!;Learning+Everyday...&center=true&width=500&height=50">
+
+
