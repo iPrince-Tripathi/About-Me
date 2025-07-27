@@ -110,7 +110,7 @@
 ## 🌍 Visitor Counter
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iPrince-Tripathi&style=flat-square&color=green" alt="GitHub Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=iPrince-Tripathi&label=Profile+Views&color=brightgreen&style=flat-square&abbreviated=true" alt="Profile Views" />
 </p>
 
 ## 🤝 Let’s Connect!
