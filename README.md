@@ -61,12 +61,37 @@
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iPrince-Tripathi&show_icons=true&theme=react&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=iPrince-Tripathi&theme=react&hide_border=true" width="48%" />
+  <a href="https://github.com/iPrince-Tripathi">
+    <img src="https://github-readme-stats.vercel.app/api?username=iPrince-Tripathi&show_icons=true&theme=react&hide_border=true" width="48%" alt="GitHub Stats"/>
+  </a>
+
+  <a href="https://github.com/iPrince-Tripathi">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=iPrince-Tripathi&theme=react&hide_border=true" width="48%" alt="GitHub Streak Stats"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iPrince-Tripathi&theme=vue"/>
+  <a href="https://github.com/iPrince-Tripathi">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iPrince-Tripathi&theme=vue" alt="GitHub Summary Card"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/iPrince-Tripathi?tab=repositories">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iPrince-Tripathi&theme=vue" alt="Top Languages"/>
+  </a>
+  <a href="https://github.com/iPrince-Tripathi?tab=stars">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iPrince-Tripathi&theme=vue" alt="GitHub Stats Card"/>
+  </a>
+</p>
+
+---
+
+🏅 <strong>GitHub Trophies</strong>  
+<p align="center">
+  <a href="https://github.com/iPrince-Tripathi">
+    <img src="https://github-profile-trophy.vercel.app/?username=iPrince-Tripathi&theme=gruvbox&no-bg=true&margin-w=10" alt="GitHub Trophies"/>
+  </a>
 </p>
 
 ---
