@@ -21,27 +21,39 @@
 📬 **Email:** prince19tri@gmail.com  
 
 💬 I’m passionate about solving business problems through data, and love transforming complex datasets into powerful dashboards and visualizations that *actually make sense!*  
+🔍 I enjoy diving into messy datasets, identifying patterns, and crafting data-driven stories that create business value.  
+✨ My goal is to turn data into decisions with clarity, creativity, and confidence.
 
 ---
 
-## 🚀 Currently Working On
+  ## 🚀 Currently Working On
 
-- ✅ Excel dashboards using PivotTables, Slicers, Charts
-- 📊 Power BI storytelling with dynamic filters
-- 🐍 Python automation & data wrangling
-- 🧠 Sharpening SQL for querying large datasets
-- ✨ Improving storytelling with data
-  
+- 📊 Creating Excel dashboards with slicers & charts  
+- 🧠 Exploring Power BI for data storytelling  
+- 🐍 Automating tasks using Python & Pandas  
+- 💾 Writing SQL queries for structured analysis  
+- ✨ Enhancing skills via hands-on projects
+
 ---
 
 ## 🛠️ Tools & Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=mysql&logoColor=white" />
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -67,7 +79,7 @@
 ## 🌍 Visitor Counter
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iPrince-Tripathi&style=flat-square&color=blue" alt="GitHub Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=iPrince-Tripathi&style=flat-square&color=green" alt="GitHub Profile Views" />
 </p>
 
 ## 🤝 Let’s Connect!
