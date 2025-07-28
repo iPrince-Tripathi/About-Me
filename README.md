@@ -128,7 +128,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/iPrince-Tripathi/FMCG-Sales-Dashboard-2022-2024-Excel-Analytics-Insights/discussions" target="_blank">
+  <a href="https://github.com/iPrince-Tripathi/iPrince-Tripathi/discussions" target="_blank">
     <img src="https://img.shields.io/badge/✍️ Leave%20Public%20Feedback-Brightblue?style=for-the-badge&logo=github&logoColor=white" alt="Public Feedback" />
   </a>
 </p>
