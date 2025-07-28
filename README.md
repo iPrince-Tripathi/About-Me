@@ -127,6 +127,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/iPrince-Tripathi/FMCG-Sales-Dashboard-2022-2024-Excel-Analytics-Insights/discussions" target="_blank">
+    <img src="https://img.shields.io/badge/✍️ Leave%20Public%20Feedback-Brightblue?style=for-the-badge&logo=github&logoColor=white" alt="Public Feedback" />
+  </a>
+</p>
+
 ---
 
 ## 🎉 Fun Facts About Me
@@ -145,12 +151,7 @@
 
 > 🙌 Feel free to star ⭐ a repo, follow my journey, or reach out! I truly appreciate every visit.
 
-<p align="center">
-  <a href="https://github.com/iPrince-Tripathi/FMCG-Sales-Dashboard-2022-2024-Excel-Analytics-Insights/discussions" target="_blank">
-    <img src="https://img.shields.io/badge/✍️ Leave%20Public%20Feedback-Brightblue?style=for-the-badge&logo=github&logoColor=white" alt="Public Feedback" />
-  </a>
-</p>
 
-📬 Let’s build and grow together! </p>
+>📬 Let’s build and grow together! </p>
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2000&pause=500&color=F75C7E&center=true&vCenter=true&width=900&lines=Thanks+for+visiting+my+profile!+Have+a+great+day+ahead+%F0%9F%8C%9E;Happy+Learning+%E2%9C%8C%EF%B8%8F+Happy+Building+%F0%9F%9A%80" alt="Typing SVG"> </p> 
 
